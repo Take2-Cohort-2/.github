@@ -2,6 +2,14 @@
 
 # Welcome to your Cohort-2 homepage
 
+## Here you will find some links to:
+
+## Online resources
+- [Wiki](https://github.com/Take2-Cohort-1/.github/wiki): Here you can find information for the week,
+- [MDN Web Docs](https://developer.mozilla.org/en-US/): Resources for Developers,
+- [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/): If you want to build on your developing skills,
+- [Codecademy](https://www.codecademy.com/catalog): A free online resource,
+
 <!--
 
 **Here are some ideas to get you started:**
