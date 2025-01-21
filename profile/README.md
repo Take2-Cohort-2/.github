@@ -5,8 +5,8 @@
 ## Here you will find some links to:
 
 ## Online resources
-<!-- [Wiki](https://github.com/Take2-Cohort-1/.github/wiki): Here you can find information for the week, -->
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Resources for Developers,
+- [W3 Schools](https://www.w3schools.com/html/default.asp): Online resource, set to html tutorials,
 - [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/): If you want to build on your developing skills,
 - [Codecademy](https://www.codecademy.com/catalog): Another free online course, similar to freeCodeCamp,
 - [Monkey Type](https://monkeytype.com/): Free online resource for practicing your typing speed, set to code html language 😂😂😂 ,
