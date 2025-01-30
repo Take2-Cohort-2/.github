@@ -13,12 +13,12 @@
 - [Excalidraw](https://excalidraw.com/): Free online resource to assist with Web design,
 
 ## Atomic Habits Reading Groups
-| Group | roopu |
+| Roopu | Tāngata |
 | ----- | ----- |
-| tuatahi | Hatina, Arlo, Hōrua |
-| tuarua | Gina, Mischa, Theo |
-| tuatoru | Darren, Tomo, Harley |
-| tuawhā | Beck, Jesse |
+| tahi | Hatina, Arlo, Hōrua |
+| rua | Gina, Mischa, Theo |
+| toru | Darren, Tomo, Harley |
+| whā | Beck, Jesse |
 
 <!--
 **Here are some ideas to get you started:**
