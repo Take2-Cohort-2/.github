@@ -13,7 +13,8 @@
 - [Excalidraw](https://excalidraw.com/): Free online resource to assist with Web design,
 
 ## Atomic Habits Reading Groups
-| Group | ----- |
+| Group | tāngata |
+| ----- | ----- |
 | tuatahi | Hatina, Arlo, Hōrua |
 | tuarua | Gina, Mischa, Theo |
 | tuatoru | Darren, Tomo, Harley |
