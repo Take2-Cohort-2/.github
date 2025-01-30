@@ -12,9 +12,14 @@
 - [Monkey Type](https://monkeytype.com/): Free online resource for practicing your typing speed, set to code html language 😂😂😂,
 - [Excalidraw](https://excalidraw.com/): Free online resource to assist with Web design,
 
+## Atomic Habits Reading Groups
+| Group | ----- |
+| tuatahi | Hatina, Arlo, Hōrua |
+| tuarua | Gina, Mischa, Theo |
+| tuatoru | Darren, Tomo, Harley |
+| tuawhā | Beck, Jesse |
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
