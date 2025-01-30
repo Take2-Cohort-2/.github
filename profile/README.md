@@ -14,7 +14,7 @@
 
 ## Atomic Habits Reading Groups
 | Roopu | Tāngata |
-| ----- | ----- |
+| ----- | :-----: |
 | tahi | Hatina, Arlo, Hōrua |
 | rua | Gina, Mischa, Theo |
 | toru | Darren, Tomo, Harley |
