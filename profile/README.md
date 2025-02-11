@@ -6,6 +6,7 @@
 
 ## Online resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Resources for Developers,
+- [HTML Naimng Conventions](https://courses.cs.washington.edu/courses/cse154/17au/styleguide/html-css/naming-conventions-html.html): HTML naming conventions,
 - [W3 Schools](https://www.w3schools.com/html/default.asp): Online resource, set to html tutorials,
 - [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/): If you want to build on your developing skills,
 - [Codecademy](https://www.codecademy.com/catalog): Another free online course, similar to freeCodeCamp,
