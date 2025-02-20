@@ -14,6 +14,7 @@
 - [Excalidraw](https://excalidraw.com/): Free online resource to assist with Web design,
 - [Prompt Engineering](https://www.tolingo.com/en/prompt-engineering): Basics of Prompt Engineering,
 - [YouTube](https://www.youtube.com/watch?v=B-s71n0dHUk&ab_channel=VisualStudioCode): Learn VS Code in 7 minutes,
+- [YouTube](https://www.youtube.com/watch?v=dLzMz2Jk_qU&ab_channel=CoderCoder): Code faster with VS code,
 
 ## Atomic Habits Reading Groups
 | Roopu | Tāngata |
