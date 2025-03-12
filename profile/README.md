@@ -4,7 +4,9 @@
 
 ## Here you will find some links to:
 
-## Online resources
+[Our JavaScript glossary](glossary.md)
+
+### Online resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Resources for Developers,
 - [HTML Naimng Conventions](https://courses.cs.washington.edu/courses/cse154/17au/styleguide/html-css/naming-conventions-html.html): HTML naming conventions,
 - [W3 Schools](https://www.w3schools.com/html/default.asp): Online resource, set to html tutorials,
